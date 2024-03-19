@@ -20,6 +20,15 @@ User Register
 User Login
 ![Screenshot from 2024-03-19 19-27-50](https://github.com/manjunathhalli/Expense_Tracker/assets/85332524/5f76ddd7-3310-4ab8-9b14-2230fe9947c0)
 
+Forgot password 
+![Screenshot from 2024-03-19 19-45-29](https://github.com/manjunathhalli/Expense_Tracker/assets/85332524/e35034c5-8d62-44ff-bf79-bf141a588a8d)
+
+Reset passwoed Notification Link via mail
+![Screenshot from 2024-03-19 19-45-51](https://github.com/manjunathhalli/Expense_Tracker/assets/85332524/acf3ad95-9f72-43ab-a807-477c1891950f)
+
+Reset password page
+![Screenshot from 2024-03-19 19-46-09](https://github.com/manjunathhalli/Expense_Tracker/assets/85332524/67685e70-75fa-4b31-b648-8367867bccfa)
+
 Dashboard
 ![Screenshot from 2024-03-19 19-43-51](https://github.com/manjunathhalli/Expense_Tracker/assets/85332524/708d988d-0903-4e85-ae5a-b0be90e7c074)
 
@@ -40,3 +49,18 @@ Filter Expense By category
 
 After Filtered
 ![Screenshot from 2024-03-19 19-41-08](https://github.com/manjunathhalli/Expense_Tracker/assets/85332524/3b03a320-99bd-418c-94ff-e472b03ac498)
+
+Edit Expense
+![Screenshot from 2024-03-19 19-41-37](https://github.com/manjunathhalli/Expense_Tracker/assets/85332524/68d80092-6386-45d8-a220-51c4e0861bda)
+
+Delete Expense
+![Screenshot from 2024-03-19 19-43-36](https://github.com/manjunathhalli/Expense_Tracker/assets/85332524/ee73de10-faee-4bcf-9884-3cd5e057e1b8)
+
+Edit Category
+![Screenshot from 2024-03-19 19-42-12](https://github.com/manjunathhalli/Expense_Tracker/assets/85332524/f599a1b5-efe3-47b3-9153-efa7e6e6a7dd)
+
+Delete Category
+![Screenshot from 2024-03-19 19-42-25](https://github.com/manjunathhalli/Expense_Tracker/assets/85332524/a990ace5-8143-4a78-b4b5-fd56496ecac7)
+
+Logout Function
+![Screenshot from 2024-03-19 19-44-04](https://github.com/manjunathhalli/Expense_Tracker/assets/85332524/2a9c3ca2-e3e1-48a4-83eb-5356cbf57859)
