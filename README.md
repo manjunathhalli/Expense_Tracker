@@ -1,4 +1,4 @@
-Below are screenshots showcasing the functionality and design of our expense tracker web application: 
+<h2> Take a look at these screenshots to get a glimpse of our expense tracker web application in action: </h2>h2>
 
 welcome page
 ![Screenshot from 2024-03-19 19-24-59](https://github.com/manjunathhalli/Expense_Tracker/assets/85332524/a4f7d1c9-a594-493f-9a89-84514a612dfe)
