@@ -1,0 +1,31 @@
+
+.container {
+    margin: 20px auto;
+    padding: 0 20px;
+    max-width: 800px;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.table th, .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+.table th {
+    background-color: #f2f2f2;
+}
+
+.list-group-item {
+    border: none;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 15px;
+}
+
+.list-group-item:last-child {
+    border-bottom: none;
+}
